@@ -1,1 +1,1 @@
-# javascript_challeneg
+# javascript_challenge
